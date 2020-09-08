@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-
 <head>
     <title>Personal Website (?) </title>
     <link rel="stylesheet" type="text/css" href="CSS/CSS.css">
@@ -107,5 +105,4 @@
         </div>
 
 </body>
-
 </html>
