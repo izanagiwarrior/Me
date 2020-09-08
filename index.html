@@ -1,27 +1,13 @@
 <html>
+
 <head>
     <title>Personal Website (?) </title>
     <link rel="stylesheet" type="text/css" href="CSS/CSS.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Roboto:wght@300&display=swap"
         rel="stylesheet">
-    <script>
-        function starTime() {
-            var today = new Date();
-            var h = today.getHours();
-            var m = today.getMinutes();
-            var s = today.getSeconds();
-            m = checkTime(m);
-            s = checkTime(s);
-            document.getElementById("clock").innerHTML = h + ":" + m + ":" + s;
-            var t = setTimeout(starTime, 500);
-        }
-        function checkTime(i) {
-            if (i < 10) { i = "0" + 1 }; // add zero in front of numbers <10
-            return i;
-        }
-    </script>
 </head>
+
 <body onload="starTime()">
     <div class="main">
         <section>
@@ -48,7 +34,7 @@
         </section>
         <div class="about-container">
             <!--img-->
-            <img src="images/about-img.png" />
+            <img src="images/XAX.png" />
             <!--about-me-text-->
             <div class="about-text">
                 <p>About Me</p>
@@ -67,7 +53,7 @@
                 <div class="box-1">
                     <span>1</span>
                     <p class="heading">MC</p>
-                    <p class="details">Trust me i can do this can of job... </p>
+                    <p class="details">Trust me i can do this kind of job... </p>
                 </div>
                 <!--2------------->
                 <div class="box-2">
@@ -98,4 +84,5 @@
             </div>
         </div>
 </body>
+
 </html>
