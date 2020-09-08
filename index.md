@@ -20,10 +20,8 @@
             if (i < 10) { i = "0" + 1 }; // add zero in front of numbers <10
             return i;
         }
-
     </script>
 </head>
-
 <body onload="starTime()">
     <div class="main">
         <section>
@@ -90,10 +88,6 @@
                 <a
                     href="https://www.linkedin.com/in/m-faiz-triputra-913156130">https://www.linkedin.com/in/m-faiz-triputra-913156130</a>
             </div>
-
-
-
-            <!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
             <div class="box">
                 <li></li>
                 <li></li>
@@ -103,6 +97,5 @@
                 <li></li>
             </div>
         </div>
-
 </body>
 </html>
