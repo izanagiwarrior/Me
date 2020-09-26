@@ -1,40 +1,4 @@
-<html>
-
-<head>
-    <title>Personal Website (?) </title>
-    <link rel="stylesheet" type="text/css" href="CSS/CSS.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Roboto:wght@300&display=swap"
-        rel="stylesheet">
-</head>
-
-<body onload="starTime()">
-    <div class="main">
-        <nav>
-            <a href="#" class="logo">M. FAIZ TRIPUTRA</a>
-            <ul>
-                <li><a href="#" class="active">THIS</a></li>
-                <li><a href="#">IS</a></li>
-                <li><a href="#">JUST</a></li>
-                <li><a href="#">A</a></li>
-                <li><a href="#">TEXT</a></li>
-                <li><a href="#">MAYBE</a></li>
-                <li><a href="#">(?)</a></li>
-            </ul>
-            <div class="toggle"></div>
-        </nav>
-        <header>
-            <div class="text-container">
-                <p>Hello,</p>
-                <p>I&#8217;M M. Faiz Triputra</p>
-                <p>A Human</p>
-                <p>Maybe...</p>
-            </div>
-            <div>
-                <img alt="model" class="model" src="images/model.jpg">
-            </div>
-        </header>
-        <div class="about-container">
+<div class="about-container">
             <!--img-->
             <img src="images/XAX.png" />
             <!--about-me-text-->
@@ -76,15 +40,3 @@
                 <a
                     href="https://www.linkedin.com/in/m-faiz-triputra-913156130">https://www.linkedin.com/in/m-faiz-triputra-913156130</a>
             </div>
-            <div class="box">
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </div>
-        </div>
-</body>
-
-</html>
